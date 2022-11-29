@@ -1,0 +1,10 @@
+#threeImg {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#imgParagraph {
+    display: flex;
+    flex-direction: row;
+}
